@@ -11,7 +11,7 @@ const html404 = `<!DOCTYPE html>
 <body>
   <h1>404 Not Found.</h1>
   <p>The url you visit is not found.</p>
-  <a href="https://idouyin.io/34" target="_self">高速科学上网->狂舞机场</a>
+  <a href="https://idouyin.io/34" target="_self">高速科学上网->轻舞云</a>
 </body>`
 
 let response_header={
